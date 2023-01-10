@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import DetailPage from "./pages/DetailPage";
 
+
 const App: React.FunctionComponent = () => {
   return (
     <div>
